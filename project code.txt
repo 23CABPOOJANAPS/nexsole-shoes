@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SHOES</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <!----Navbar-->
+
+
+    <nav class="navbar navbar-expand-lg navbar-dark" id="navbar">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">SHOES</a>
+    <button class="navbar-toggler" type="button"
+     data-bs-toggle="collapse"
+     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" ></button>
+      <span class="navbar-toggler-icon"></span>
+  </button>
+    <div class="collapse navbar-collapse" 
+    id="navbarSupportedContent">
+      <ul class="navbar-nav mx-auto >
+        <li class="nav-item">
+          <a class="nav-link" href="#home">Home</a>
+        </li>
+        <li  class="nav-item">
+          <a class="nav-link" href="#about">About</a>
+        </li>
+        <li  class="nav-item">
+          <a class="nav-link" href="#Products">Products</a>
+        </li>
+        <li  class="nav-item">
+          <a class="nav-link" href="#contact">Contact</a>
+        </li>
+      </ul>
+      <button class="btn p-2 my-lg-0 my-2">Sign In</button>
+  </div>
+</nav>
+
+
+<!----Home-->
+
+<section id="home">
+     <h1 class="text-center">NEXSOLE SHOES</h1>
+     <p>Crafted for Comfort.Designed to Impress</p>
+     <div class="input-group m-4">
+      <input type="text" class="form-control" placeholder="Email Address">
+      <button class="btn signin">Get Start</button>
+
+     </div>
+</section>
+<!-----About---->
+
+<section id="about">
+  <div class="container-fluid">
+    <div class="row">
+    <div class="col-lg-6 col-md-6 col-12 my-2">
+      <img src="c:\Users\darshana\OneDrive\Desktop\logo3.jpg" class="img-fluid">
+    </div>
+    <div class="col-lg-6 col-md-6 col-12 p -lg-5 p-2 my-5">
+      <h1>ABOUT US</h1>
+      <P>Welcome to NEXSOLE SHOES, we're not just making shoes—we're engineering momentum. Born from a passion for movement and precision, our footwear is built for those who never slow down. From road to track, trail to gym, we craft every pair to fuel your hustle
+        we build shoes that go the distance. From mountain paths to city streets, our footwear is designed for adventure-seekers who demand resilience, grip, and no excuses. Lace up and take on the terrain.
+        At NEXSOLE SHOES, we believe every step is a statement. Our mission is to empower individuals to walk their path with confidence, purpose, and style. Whether you're chasing dreams or conquering daily routines, our shoes are built to support your journey—one bold step at a time.
+      </P>
+    </div>
+  </div>
+</div>
+</section>
+<section id="Products">
+  <div class="container m-5">
+    <h1 class="text-center my-5">OUR PRODUCTS</h1>
+    <div class="row">
+      <div class="col-lg-4 col-md-4 col-12">
+        <div class="card">
+        <img src="shoe 3.webp" class="card-img-top">
+        <div class="card-body text-center">
+          <h5 class="card-title">4500/-</h5>
+          <a href="#" class="btn btn signin">Add To Cart</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-4 col-12">
+      <div class="card">
+        <img src="c:\Users\darshana\OneDrive\Desktop\img10.webp" class="card-img-top">
+        <div class="card-body text-center">
+          <h5 class="card-title">6500/-</h5>
+          <a href="#" class="btn btn signin">Add To Cart</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-4 col-12">
+      <div class="card">
+        <img src="c:\Users\darshana\OneDrive\Desktop\img9.webp" class="card-img-top">
+        <div class="card-body text-center">
+          <h5 class="card-title">3000/-</h5>
+          <a href="#" class="btn btn signin">Add To Cart</a>
+        </div>
+      </div>
+    </div>
+  </div>    <div class="row">
+      <div class="col-lg-4 col-md-4 col-12">
+        <div class="card">
+        <img src="c:\Users\darshana\OneDrive\Desktop\img8.webp" class="card-img-top">
+        <div class="card-body text-center">
+          <h5 class="card-title">4000/-</h5>
+          <a href="#" class="btn btn signin">Add To Cart</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-4 col-12">
+      <div class="card">
+        <img src="c:\Users\darshana\OneDrive\Desktop\img7.webp" class="card-img-top">
+        <div class="card-body text-center">
+          <h5 class="card-title">8000/-</h5>
+          <a href="#" class="btn btn signin">Add To Cart</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-4 col-12">
+      <div class="card">
+        <img src="c:\Users\darshana\OneDrive\Desktop\img6.webp" class="card-img-top">
+        <div class="card-body text-center">
+          <h5 class="card-title">6000/-</h5>
+          <a href="#" class="btn btn signin">Add To Cart</a>
+        </div>
+      </div>
+    </div>
+  </div>
+      <div class="row">
+      <div class="col-lg-4 col-md-4 col-12">
+        <div class="card">
+        <img src="c:\Users\darshana\OneDrive\Desktop\img5.webp" class="card-img-top">
+        <div class="card-body text-center">
+          <h5 class="card-title">7000/-</h5>
+          <a href="#" class="btn btn signin">Add To Cart</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-4 col-12">
+      <div class="card">
+        <img src="c:\Users\darshana\OneDrive\Desktop\img4.webp" class="card-img-top">
+        <div class="card-body text-center">
+          <h5 class="card-title">4000/-</h5>
+          <a href="#" class="btn btn signin">Add To Cart</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-4 col-12">
+      <div class="card">
+        <img src="c:\Users\darshana\OneDrive\Desktop\img3.webp" class="card-img-top">
+        <div class="card-body text-center">
+          <h5 class="card-title">1500/-</h5>
+          <a href="#" class="btn btn signin">Add To Cart</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+
+<section id="contact">
+  <div class="container box">
+    <div class="row">
+    <div class="col-lg-6 col-md-6 col-12">
+      <img src="c:\Users\darshana\OneDrive\Desktop\contact.webp" class="img-fluid">
+
+    </div>
+    <div class="col-lg-6 col-md-6 col-12">
+      <h1>CONTACT US</h1>
+      <form class="mb-3">
+        <input type="text" class="form-control"
+        placeholder="Enter your name">
+        <input type="text" class="form-control"
+        placeholder="Enter your mail">
+        <textarea class="form-control"
+        placeholder="Enter your message"></textarea>
+        <button class="btn signin">Send Message</button>
+      </form>
+
+    </div>
+  </div>
+</div>
+</section>
+<footer>Copyrights © 2025 NEXSOLE SHOES. Name All rights reserved.  
+All designs, logos, images, and content on this site are the intellectual property of NEXSOLE SHOES and may not be reproduced, distributed, or used without prior written permission.
+</footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" ></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js"></script>
+
+</body>
+</html>
